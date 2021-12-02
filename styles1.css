@@ -1,0 +1,36 @@
+
+@media (min-width: 768px) {
+  body{
+  background-image: url(https://thewitcher.com/build/images/assets/gfx/witcher3/bg-media-c420e04e..jpg);
+  background-size: cover;
+}
+}
+h1{
+  color: #D8D0B0;
+  font-family: sans-serif;
+}
+h4{
+  color: #C0C0C0;
+  font-family: sans-serif;
+}
+hr{
+	margin: 20px 0;
+	padding: 0;
+	height: 2px;
+	border: none;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #000;
+	background: orange;
+}
+.button{
+  text-align: center;
+  margin: 20px;
+}
+.slider{
+  height: 500px;
+  width: 700px;
+}
+.cardo{
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,40 @@
+body{
+  background-image: url(https://thewitcher.com/build/images/assets/images/witcher3/bg-desktop-toussaint-5102fdb4..jpg);
+  background-size: cover;
+
+}
+@media (min-width: 992px) { ... }
+h1{
+  color: #D8D0B0;
+  font-family: sans-serif;
+}
+h2{
+  color: #D8D0B0;
+  font-family: sans-serif;
+  text-align: center;
+}
+h4{
+  color: #C0C0C0;
+  font-family: sans-serif;
+}
+h5{
+  color: #C3C3BF;
+  font-family: sans-serif;
+}
+hr{
+	margin: 20px 0;
+	padding: 0;
+	height: 2px;
+	border: none;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #000;
+	background: orange;
+}
+.main-image{
+  height: 500px;
+  width: 1300px;
+  margin-top: 10px;
+}
+.quote{
+  color: orange;
+}
