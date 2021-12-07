@@ -1,9 +1,6 @@
-
-@media (min-width: 768px) {
-  body{
+body{
   background-image: url(https://thewitcher.com/build/images/assets/gfx/witcher3/bg-media-c420e04e..jpg);
   background-size: cover;
-}
 }
 h1{
   color: #D8D0B0;
